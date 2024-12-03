@@ -1,7 +1,108 @@
-<h1 align="center">Hi 👋, I'm Tanakrit Jinakhan</h1>
-<h3 align="center">A Developer from Thailand</h3>
+# 👋 Hi, I'm Thanakrit Jinakhan  
+**Full Stack Developer**    
 
-- 📫 How to reach me **thanakritv8@gmail.com**
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 📝 About Me  
+I am a **Full Stack Developer** with over **8 years of experience** in diverse system development, including **web applications**, **mobile applications**, **Windows applications**, and **microcontroller systems**. My expertise spans both front-end and back-end development, with a focus on delivering innovative and efficient solutions.
+
+I specialize in frameworks like **Angular**, **.NET Core**, and **Laravel**, and I'm proficient in deployment processes using **GitHub Actions** and **Docker**. I am passionate about crafting scalable and robust systems to help businesses thrive.
+
+---
+
+## 🛠️ Technical Skills  
+
+### **Frameworks**
+- Angular, .NET Core, .NET Framework  
+- Ionic, Laravel, CodeIgniter  
+
+### **Programming Languages**
+- C#, VB.Net, C++, PHP, JavaScript, VB6  
+
+### **Development Tools**
+- GitHub, GitHub Actions, Docker  
+- CodeOnTime, DevExpress, Fritzing  
+
+### **Platforms**
+- Web Applications, Web APIs  
+- Windows Applications  
+- Mobile Applications (Ionic)  
+- Microcontroller Development (NodeMCU, Arduino, PIC)  
+
+### **Specializations**
+- Database Management (**SQL Server**)  
+- Version Control (**GitHub**)  
+- Deployment Automation (**GitHub Actions**)  
+
+---
+
+## 💼 Work Experience  
+
+### **GC Maintenance and Engineering Co., Ltd.**  
+**Engineer**  
+*November 2020 – Present* 
+
+
+### **TMT Smart Solution**  
+**Freelance Developer**  
+*April 2019 – Present*  
+
+
+### **ROKI (Thailand) Co., Ltd.**  
+**Programmer**  
+*September 2018 – May 2020*  
+  
+
+### **Maxxis International (Thailand) Co., Ltd.**  
+**Lead Programmer**  
+*November 2015 – September 2018*  
+  
+
+### **Aeronautical Radio of Thailand**  
+**Engineer Trainee**  
+*2014*  
+
+
+---
+
+## 🎓 Education  
+
+### **Rajamangala University of Technology Lanna, Chiangmai**  
+- Bachelor of Computer Engineering (2015)  
+- **GPA:** 3.19  
+
+### **Phrae Technical College**  
+- Vocational Certificate in Electronics (2012)  
+- **GPA:** 3.01  
+
+---
+
+## 🏆 Certifications  
+- Certificate of Academic Excellence  
+- Data Science and Engineering  
+- Robot Design Contest Winner (2013)  
+
+---
+
+## 🌟 Core Competencies  
+- **Front-End Development:** Angular, Ionic  
+- **Back-End Development:** .NET Core, Laravel  
+- **Database Management:** SQL Server  
+- **Deployment:** GitHub Actions, Docker  
+- **Version Control:** GitHub  
+
+---
+
+## 📞 Contact Me  
+📱 **Mobile:** 097-026-8120  
+📧 **Email:** thanakrit8@gmail.com  
+🌐 **Website:** [www.tmt-solutions.com](http://www.tmt-solutions.com)  
+
+---
+
+## 📊 GitHub Stats  
+![Thanakrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanakritv8&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanakritv8&layout=compact&theme=radical)  
+
+---
+
