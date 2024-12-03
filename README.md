@@ -96,7 +96,7 @@ I specialize in frameworks like **Angular**, **.NET Core**, and **Laravel**, and
 ## 📞 Contact Me  
 📱 **Mobile:** 097-026-8120  
 📧 **Email:** thanakrit8@gmail.com  
-🌐 **Website:** [www.tmt-solutions.com](http://www.tmt-solutions.com)  
+🌐 **Website:** [www.tmt-solution.com](http://www.tmt-solution.com)  
 
 ---
 
